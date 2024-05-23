@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   node-app:
-    image: pinku9627/node-app:latest
+    image: pinku9627/node-app:v2
     ports:
       - "8000:8000"
